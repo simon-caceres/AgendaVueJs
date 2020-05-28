@@ -1,5 +1,10 @@
 # calendario
 
+## Preview 
+
+![vuetify](https://user-images.githubusercontent.com/60223915/83194076-0ee53700-a106-11ea-8f3d-9a12b7681276.jpg)
+
+
 ## Project setup
 ```
 npm install
